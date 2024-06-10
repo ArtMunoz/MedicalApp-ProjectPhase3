@@ -1,5 +1,4 @@
 # MedicalApp-ProjectPhase3
-Aplicación Médica para un Asilo
 Descripción
 Este proyecto es una aplicación móvil desarrollada con React Native para la gestión de citas médicas en un asilo. La aplicación proporciona diversas funcionalidades para agilizar el proceso de programación y gestión de citas para doctores, enfermeras y pacientes.
 
@@ -98,13 +97,25 @@ Generar reportes para doctores y pacientes basados en citas.
 Seguridad y Permisos
 Solo los usuarios con el rol de administrador pueden acceder a las funciones administrativas.
 Control de acceso basado en roles implementado para garantizar la seguridad.
+
+Enlaces Útiles
+Desarrollador: Arturo Ernesto Munoz Barahona - MB030522
+Manual de usuario: 
+Manual técnico:
+Trello o Notion: 
+Diseños Mock Ups: 
+
+Licencia
+Este proyecto está licenciado bajo la Licencia Creative Commons CC BY-NC 4.0.
+
 Instalación
 Clonar el repositorio.
 Instalar las dependencias con npm install.
 Configurar Firebase y las variables de entorno necesarias.
 Ejecutar la aplicación con npm start.
 Contribuciones
-Sientase libre de bifurcar el repositorio y enviar pull requests. ¡Todas las contribuciones son bienvenidas!
+Siéntase libre de bifurcar el repositorio y enviar pull requests. ¡Todas las contribuciones son bienvenidas!
+
 
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
